@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wildfire VR", "Assembly-CSharp.csproj", "{5D873331-721A-3F4B-77D5-99C08EB6943F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wildfire VR", "Assembly-CSharp-Editor.csproj", "{A01B6A6D-64FB-2B7C-90E1-6DD1B54BDE3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D873331-721A-3F4B-77D5-99C08EB6943F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D873331-721A-3F4B-77D5-99C08EB6943F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D873331-721A-3F4B-77D5-99C08EB6943F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D873331-721A-3F4B-77D5-99C08EB6943F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A01B6A6D-64FB-2B7C-90E1-6DD1B54BDE3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01B6A6D-64FB-2B7C-90E1-6DD1B54BDE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01B6A6D-64FB-2B7C-90E1-6DD1B54BDE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01B6A6D-64FB-2B7C-90E1-6DD1B54BDE3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
